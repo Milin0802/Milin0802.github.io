@@ -1,12 +1,13 @@
-## 2020年山东大学线性代数学习资料
+## 山东大学计算机学院线性代数-2020年秋
 
-You can use the [editor on GitHub](https://github.com/Milin0802/Milin0802.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### 教师信息
-栾峻峰
-- 办公室
+**栾峻峰**
+
+- 办公室 N3-
+- Email jfluan@sdu.edu.cn  
+- 
 
 ### 助教信息
 
