@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - 1班 李熙
 - 2班 刘宗殿
+- 3班 吴昊
 - 4班 雷艳
 
 ### Markdown
