@@ -4,11 +4,12 @@ You can use the [editor on GitHub](https://github.com/Milin0802/Milin0802.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### 助教信息
-- 1班 李熙
-- 2班 刘宗殿
-- 3班 吴昊
-- 4班 雷艳
+### 课程信息
+
+- 教师：栾峻峰-jfluan@sdu.edu.cn
+
+- 助教：李熙（1班），刘宗殿（2班），吴昊（3班），雷艳（4班）
+- 成绩分配：作业20%，平时10%，考试70%
 
 ### Markdown
 
