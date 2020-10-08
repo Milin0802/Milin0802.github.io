@@ -13,6 +13,7 @@
 - 参考教材 [《线性代数及其应用》](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/3rd%E4%B8%AD%E6%96%87%20LA%20and%20its%20application.pdf)
 - 中文ppt [下载链接](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0PPT-%E4%B8%AD%E6%96%87-%E6%A0%BE)
 - 英文ppt [下载链接](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0PPT-%E8%8B%B1%E6%96%87-%E6%A0%BE)
+- 山东大学线性代数mooc [视频链接](https://www.icourse163.org/course/SDU-55001)
 
 ### 课程作业
 
