@@ -17,6 +17,8 @@
 
 ### 课程作业
 
+- [作业收发平台](http://10.102.32.80:8000)
+
 - 作业1
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A1/%E4%BD%9C%E4%B8%9A1.pdf) （上交日期：10月14日，周三）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A1/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
@@ -29,3 +31,4 @@
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
   
   
+
