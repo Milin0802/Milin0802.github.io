@@ -18,7 +18,6 @@
 ### 课程作业
 
 - [作业收发平台](http://10.102.32.80:8000)
-
 - 作业1
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A1/%E4%BD%9C%E4%B8%9A1.pdf) （上交日期：10月14日，周三）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A1/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
@@ -30,5 +29,20 @@
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf)（上交日期：11月4日，周三）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
   
+- 作业5
+  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%20%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4.pdf) （上机日期：11月19日，周四）
+
+### 测验
+
+- [期中考试](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95)
+
+  - A卷（3、4班场次）
+    - [试卷](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/2020%E5%B9%B4%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95-A.pdf)
+    - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/A%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+  - B卷（1、2班场次）
+    - [试卷](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/2020%E5%B9%B4%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95-B.pdf)
+    - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/B%E5%8D%B7%E7%AD%94%E6%A1%88.pdf)
+  - [每题分值分配说明](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/%E6%AF%8F%E9%A2%98%E5%88%86%E5%80%BC%E5%88%86%E9%85%8D.pdf)
+
   
 
