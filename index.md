@@ -14,6 +14,7 @@
 - 中文ppt [下载链接](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0PPT-%E4%B8%AD%E6%96%87-%E6%A0%BE)
 - 英文ppt [下载链接](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0PPT-%E8%8B%B1%E6%96%87-%E6%A0%BE)
 - 山东大学线性代数mooc [视频链接](https://www.icourse163.org/course/SDU-55001)
+- 期末考试真题 [下载链接](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E7%BA%BF%E4%BB%A3%E5%BE%80%E5%B9%B4%E6%9C%9F%E6%9C%AB%E8%AF%95%E9%A2%98)
 
 ### 课程作业
 
