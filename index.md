@@ -32,7 +32,7 @@
 - 作业5
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%20%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4.pdf) （上交日期：11月19日，周四）
 - 作业6
-  - 链接
+  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A6/%E7%BA%BF%E4%BB%A3%E4%BD%9C%E4%B8%9A6.pdf)（上交日期：11月25日，周三）
 - 作业7
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A7.pdf)（上交日期：12月2日，周三）
 
@@ -48,3 +48,4 @@
   - [每题分值分配说明](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E6%9C%9F%E4%B8%AD%E8%80%83%E8%AF%95/%E6%AF%8F%E9%A2%98%E5%88%86%E5%80%BC%E5%88%86%E9%85%8D.pdf)
   - [个人分数查询链接](https://273314.yichafen.com/)
     - 注意：查询自己分数后，请点击“锁定查询”
+
