@@ -29,9 +29,12 @@
   
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A.pdf)（上交日期：11月4日，周三）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A3/%E7%AC%AC%E4%B8%89%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
-  
 - 作业5
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A5/%E7%AC%AC%E4%BA%94%E6%AC%A1%E4%BD%9C%E4%B8%9A%20%E5%90%91%E9%87%8F%E7%A9%BA%E9%97%B4.pdf) （上交日期：11月19日，周四）
+- 作业6
+  - 链接
+- 作业7
+  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A7.pdf)（上交日期：12月2日，周三）
 
 ### 测验
 
