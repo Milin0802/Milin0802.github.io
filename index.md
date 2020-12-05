@@ -36,7 +36,10 @@
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A6/%E7%BA%BF%E4%BB%A3%E4%BD%9C%E4%B8%9A6.pdf)（上交日期：11月25日，周三）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A6/%E7%AC%AC%E5%85%AD%E6%AC%A1%E4%BD%9C%E4%B8%9A%E7%AD%94%E6%A1%88.pdf)
 - 作业7
-  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A7.pdf)（上交日期：12月2日，周三）
+  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A7.pdf)（上交日期：12月4日，周五）
+  - [答案](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7)
+- 作业8
+  - 链接
 
 ### 测验
 
