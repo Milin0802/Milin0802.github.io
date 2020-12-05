@@ -39,7 +39,7 @@
   - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A7.pdf)（上交日期：12月4日，周五）
   - [答案](https://github.com/Milin0802/Milin0802.github.io/tree/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A7)
 - 作业8
-  - 链接
+  - [链接](https://github.com/Milin0802/Milin0802.github.io/blob/master/%E8%B5%84%E6%96%99/%E4%BD%9C%E4%B8%9A/%E4%BD%9C%E4%B8%9A8/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E4%BD%9C%E4%B8%9A8(final%20assignment).pdf)
 
 ### 测验
 
